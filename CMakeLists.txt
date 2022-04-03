@@ -1,4 +1,4 @@
-project(LaboratoryDemoLib VERSION 2.01.00)
+project(LaboratoryDemoLib VERSION 2.02.00)
 configure_file(Config.h.in Config.h)
 
 # Request the required wxWidgets libs

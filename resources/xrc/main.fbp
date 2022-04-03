@@ -1111,7 +1111,7 @@
                         <property name="aui_row"></property>
                         <property name="best_size"></property>
                         <property name="bg">255,255,255</property>
-                        <property name="bitmap">Load From File; machine.png</property>
+                        <property name="bitmap">Load From File; frank.jpg</property>
                         <property name="caption"></property>
                         <property name="caption_visible">1</property>
                         <property name="center_pane">0</property>
