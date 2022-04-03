@@ -1,0 +1,10 @@
+/**
+ * @file Config.h.in
+ * @author Charles B. Owen
+ */
+
+// the configured options and settings for LaboratoryDemo
+#define LaboratoryDemoVersionMajor @LaboratoryDemoLib_VERSION_MAJOR@
+#define LaboratoryDemoVersionMinor @LaboratoryDemoLib_VERSION_MINOR@
+#define LaboratoryDemoVersionPatch @LaboratoryDemoLib_VERSION_PATCH@
+#define LaboratoryDemoVersion @LaboratoryDemoLib_VERSION@
