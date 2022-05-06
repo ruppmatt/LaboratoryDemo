@@ -101,6 +101,10 @@ bool Controller::OnCmdLineParsed(wxCmdLineParser& parser)
         {
             mTasks.push_back(std::make_shared<TaskExit>(this));
         }
+        else
+        {
+            cerr << "Unable to identify command: " << arg << endl;
+        }
     }
 
     return true;
